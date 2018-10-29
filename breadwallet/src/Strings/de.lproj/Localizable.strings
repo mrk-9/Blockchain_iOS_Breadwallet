@@ -1,0 +1,952 @@
+/* App name */
+"About.appName.android" = "Bread";
+/* About screen blog label */
+"About.blog" = "Blog";
+/* About screen footer */
+"About.footer" = "Erstellt vom globalen Bread-Team. Version %1$@";
+/* Privay Policy button label */
+"About.privacy" = "Datenschutzerklärung";
+/* About screen reddit label */
+"About.reddit" = "Reddit";
+/* Terms of Use button label */
+"About.terms" = "Nutzungsbedingungen";
+/* About screen title */
+"About.title" = "Info";
+/* About screen twitter label */
+"About.twitter" = "Twitter";
+/* About screen wallet ID label */
+"About.walletID" = "BRD-Rewards-ID";
+/* Close modal button accessibility label */
+"AccessibilityLabels.close" = "Schließen";
+/* Support center accessibiliy label */
+"AccessibilityLabels.faq" = "Support-Center";
+/* Account balance */
+"Account.balance" = "Guthaben";
+/* $10000 per BTC */
+"Account.exchangeRate" = "%1$@ pro %2$@";
+/* Loading Wallet Message */
+"Account.loadingMessage" = "Wallet wird geladen";
+/* Default wallet name */
+"AccountHeader.defaultWalletName" = "Mein Bread";
+/* Third party keyboard warning */
+"Alert.customKeyboard.android" = "Anscheinend verwenden Sie eine Drittanbieter-Tastatur, die Ihre Eingaben aufzeichnen und Ihren Paper Key stehlen kann. Bitte wechseln Sie für zusätzlichen Schutz zur Standard-Tastatur von Android.";
+/* Error alert title */
+"Alert.error" = "Fehler";
+/* Keystore error */
+"Alert.keystore.generic.android" = "Es liegt ein Problem mit dem KeyStore Ihres Android-Betriebssystems vor, bitte wenden Sie sich an support@breadwallet.com";
+/* KeyStore error, keys are invalidated */
+"Alert.keystore.invalidated.android" = "Ihre mit Bread verschlüsselten Daten wurden vor Kurzem für ungültig erklärt, da Ihre Android-Bildschirmsperre deaktiviert war.";
+/* Keystore error title */
+"Alert.keystore.title.android" = "Android-KeyStore-Fehler";
+/* No internet alert message */
+"Alert.noInternet" = "Keine Internetverbindung gefunden. Bitte überprüfe deine Verbindung und versuche es erneut.";
+/* Warning alert title */
+"Alert.warning" = "Achtung";
+/* 'the addresses were copied'' Alert title */
+"Alerts.copiedAddressesHeader" = "Adressen kopiert";
+/* Addresses Copied Alert sub header */
+"Alerts.copiedAddressesSubheader" = "Es wurden alle Wallet-Adressen erfolgreich kopiert.";
+/* Alert Header Label (the paper key was set) */
+"Alerts.paperKeySet" = "Offlineschlüssel festgelegt";
+/* Alert Subheader label (playfully positive) */
+"Alerts.paperKeySetSubheader" = "Großartig!";
+/* Alert Header label (the PIN was set) */
+"Alerts.pinSet" = "PIN festgelegt";
+/* Send failure alert header label (the send failed to happen) */
+"Alerts.sendFailure" = "Versand fehlgeschlagen";
+/* Send success alert header label (confirmation that the send happened) */
+"Alerts.sendSuccess" = "Bestätigung gesendet";
+/* Send success alert subheader label (e.g. the money was sent) */
+"Alerts.sendSuccessSubheader" = "Geld versandt!";
+/* Fingerprint was recognized by the scanner */
+"Alerts.touchIdSucceeded.android" = "Fingerabdruck erkannt";
+/* Tell the user where they can enable permissions to access device storage. */
+"Android.allowFileSystemAccess" = "Bitte aktivieren Sie die Speicherberechtigung in Ihren Geräteeinstellungen: „Einstellungen\" > „Apps\" > „BRD\" > „Berechtigungen\".";
+/* The "home" screen is the name of the top level menu for the app. */
+"Android.BCH.welcome.message" = "Sie können über den Startbildschirm auf alle BCH in Ihrer Wallet zugreifen.";
+/* Warning about using apps that can alter the screen */
+"Android.screenAlteringMessage" = "BRD funktioniert nicht ordnungsgemäß, solange bildschirmverändernde Apps (z.B. Twilight) aktiv sind.";
+/* An app that alters the screen ("screen-altering app") has been detected. */
+"Android.screenAlteringTitle" = "Bildschirmverändernde App erkannt";
+/* JSON Serialization error message */
+"ApiClient.jsonError" = "JSON-Serialisierungsfehler";
+/* Wallet not ready error message */
+"ApiClient.notReady" = "Wallet nicht bereit";
+/* API Token error message */
+"ApiClient.tokenError" = "API-Token konnte nicht abgerufen werden";
+/* Send BCH view body. */
+"BCH.body" = "Geben Sie unten eine Ziel-BCH-Adresse ein. Das gesamte BCH Guthaben aus Ihrem Wallet zur Zeit der Aufspaltung (%1$@) wird versendet.";
+/* Confirm sending <$5.00> to <address>? */
+"BCH.confirmationMessage" = "Senden von %1$@ an %2$@ bestätigen";
+/* Confirmation alert title */
+"BCH.confirmationTitle" = "Bestätigung";
+/* Generic bch erorr message */
+"BCH.genericError" = "Ihr Konto enthält kein BCH oder Sie haben BCH nach dem Fork erhalten.";
+/* Transaction ID copied message */
+"BCH.hashCopiedMessage" = "Transaktions-ID kopiert";
+/* No address error message */
+"BCH.noAddressError" = "Bitte geben Sie eine Adresse ein";
+/* Attempted to scan unsupported qr code error message. */
+"BCH.paymentProtocolError" = "Zahlungsprotokoll-Anfragen werden bei BCH-Transaktionen nicht unterstützt";
+/* BCH successfully sent alert message */
+"BCH.successMessage" = "BCH wurde erfolgreich versendet.";
+/* Widthdraw BCH view title */
+"BCH.title" = "BCH abheben";
+/* Tx Hash button header */
+"BCH.txHashHeader" = "BCH-Transaktions-ID";
+/* Approve button label */
+"BitID.approve" = "Bestätigen";
+/* <sitename> is requesting authentication using your bitcoin wallet */
+"BitID.authenticationRequest" = "%1$@ fordert die Authentifizierung über Ihr Bitcoin-Wallet an";
+/* Deny button label */
+"BitID.deny" = "Ablehnen";
+/* BitID error alert title */
+"BitID.error" = "Authentifizierungsfehler";
+/* BitID error alert messaage (The payment service you are trying to use isn't working. Please contact them, as you may need to try again) */
+"BitID.errorMessage" = "Bitte den Service überprüfen. Es könnte ein erneuter Versuch erforderlich sein.";
+/* BitID success alert title */
+"BitID.success" = "Erfolgreich authentifiziert";
+/* BitID Authentication Request alert view title */
+"BitID.title" = "BitID-Authentifizierungsanfrage";
+/* As in "(tap here to) buy (bitcoin)" */
+"Button.buy" = "Kaufen";
+/* Cancel button label */
+"Button.cancel" = "Abbrechen";
+/* prompt continue button */
+"Button.continueAction" = "Weiter";
+/* prompt dismiss button */
+"Button.dismiss" = "Verwerfen";
+/* Button to return to the "home" screen (the home screen is the top menu). */
+"Button.Home" = "Start";
+/* Ignore button label */
+"Button.ignore" = "Ignorieren";
+/* menu button */
+"Button.menu" = "Menü";
+/* No button */
+"Button.no" = "Nein";
+/* OK button label */
+"Button.ok" = "OK";
+/* receive button */
+"Button.receive" = "Erhalten";
+/* Click this button to sell an asset */
+"Button.sell" = "Verkaufen";
+/* send button */
+"Button.send" = "senden";
+/* Settings button label */
+"Button.settings" = "Einstellungen";
+/* Settings button label */
+"Button.submit" = "Abschicken";
+/* Yes button */
+"Button.yes" = "Ja";
+/* Camera plugin instruction */
+"CameraPlugin.centerInstruction" = "Zentriere deinen Ausweis im Rechteck";
+/* Amount to Send: ($1.00) */
+"Confirmation.amountLabel" = "Betrag, welcher versendet werden soll:";
+/* Network Fee: ($1.00) */
+"Confirmation.feeLabel" = "Netzwerkgebühr:";
+/* eg. Processing time: This transaction is predicted to complete in [10-60 minutes]. */
+"Confirmation.processingTime" = "Bearbeitungszeit: Diese Transaktion ist voraussichtlich in %1$@ abgeschlossen.";
+/* Label for "send" button on final confirmation screen */
+"Confirmation.send" = "Senden";
+/* Confirmation Screen title */
+"Confirmation.title" = "Bestätigung";
+/* To: (address) */
+"Confirmation.to" = "An";
+/* Total Cost: ($5.00) */
+"Confirmation.totalLabel" = "Gesamtkosten:";
+/* Confirm paper phrase error message */
+"ConfirmPaperPhrase.error" = "Die eingegebenen Wörter stimmen nicht mit Ihrem Papierschlüssel überein. Bitte versuchen Sie es erneut.";
+/* Confirm paper phrase view label. */
+"ConfirmPaperPhrase.label" = "Um sicherzustellen, dass alles korrekt notiert worden ist, gib bitte die folgenden Wörter deines Offlineschlüssels ein.";
+/* Word label eg. Word #1, Word #2 */
+"ConfirmPaperPhrase.word" = "Wort #%1$@";
+/* Agree to legal terms button */
+"Crowdsale.agree" = "Zustimmen";
+/* As in "(tap here to) buy (some) tokens" */
+"Crowdsale.buyButton" = "Tokens kaufen";
+/* Decline to legal terms button */
+"Crowdsale.decline" = "Ablehnen";
+/* Resume Idnetify verification button */
+"Crowdsale.resume" = "Verifizierung fortsetzen";
+/* Retry Identity verification button */
+"Crowdsale.retry" = "Erneut versuchen";
+/* Bitcoin denomination picker label */
+"DefaultCurrency.bitcoinLabel" = "Bitcoin-Anzeigeeinheit";
+/* Exchange rate label */
+"DefaultCurrency.rateLabel" = "Wechselkurs";
+/* The wallet is disabled. */
+"Disabled.title" = "Wallet deaktiviert";
+/* Service capabilities description */
+"EME.permissions.accountRequest" = "%1$@ Kontoinformationen anfordern";
+/* Service capabilities description */
+"EME.permissions.callRequest" = "%1$@ Smart Contract Forderung";
+/* Service capabilities description */
+"EME.permissions.paymentRequest" = "%1$@ Kontoinformationen anfordern";
+/* Email unavailable alert title */
+"ErrorMessages.emailUnavailableMessage" = "Dieses Gerät ist nicht dafür eingerichtet, E-Mails mit der iOS-Mail-App zu versenden.";
+/* Email unavailable alert title */
+"ErrorMessages.emailUnavailableTitle" = "E-Mail nicht verfügbar";
+/* Message that gets shown when we've detected the user has encountered the looping lock-screen bug. (preserve [ ] characters) */
+"ErrorMessages.loopingLockScreen.android" = "Bread kann nicht authentifiziert werden aufgrund eines Fehlers in deiner Version von Android. [Bitte tippe hier für weitere Informationen].";
+/* Messaging unavailable alert title */
+"ErrorMessages.messagingUnavailableMessage" = "Dieses Gerät ist nicht dafür eingerichtet, Nachrichten zu versenden.";
+/* Messaging unavailable alert title */
+"ErrorMessages.messagingUnavailableTitle" = "Nachrichtensystem nicht verfügbar";
+/* Fingerprint was not recognized by the scanner, please try scanning again */
+"ErrorMessages.touchIdFailed.android" = "Fingerabdruck nicht erkannt. Bitte erneut versuchen.";
+/* You can customize your Face ID Spending Limit from the [menu] */
+"FaceIDSettings.customizeText" = "Sie können Ihr Ausgabenlimit für Face ID im %1$@ anpassen.";
+/* Face Id screen label */
+"FaceIDSettings.label" = "Mit Ihrem Gesicht können Sie Ihre BRD freischalten und Geld bis zu einem festgelegten Limit senden.";
+/* Title of the screen for setting the Face ID Spending Limit */
+"FaceIDSettings.linkText" = "Bildschirm für Face-ID-Ausgabenlimit";
+/* Setting to turn on Face ID for BRD */
+"FaceIDSettings.switchLabel" = "Face-ID für BRD aktivieren";
+/* Face ID settings view title */
+"FaceIDSettings.title" = "Face ID";
+/* Instructions on how to turn on face id on the iPhone. Please ensure the name of the menu in this string matches the wording Apple uses in the iPhone menu. */
+"FaceIDSettings.unavailableAlertMessage" = "Sie haben auf diesem Gerät keine Face ID eingerichtet. Gehen Sie auf Einstellungen ->Face ID und Passwort, um die Face ID jetzt einzurichten.";
+/* Face ID unavailable alert title */
+"FaceIDSettings.unavailableAlertTitle" = "Face ID nicht eingerichtet";
+/* Face Id spending limit screen title */
+"FaceIDSpendingLimit.title" = "Face ID Ausgabenlimit";
+/* Economy fee */
+"FeeSelector.economy" = "Sparsam";
+/* E.g. [This transaction is predicted to complete in] 1-24 hours */
+"FeeSelector.economyTime" = "1 - 24 Stunden";
+/* Warning message for economy fee */
+"FeeSelector.economyWarning" = "Diese Option wird nicht für zeitkritische Transaktionen empfohlen.";
+/* E.g. Estimated delivery: 10-60 minutes */
+"FeeSelector.estimatedDeliver" = "Voraussichtliche Lieferzeit: %1$@";
+/* [This transaction will complete in] 2-5 minutes */
+"FeeSelector.ethTime" = "2–5 Minuten";
+/* Regular fee */
+"FeeSelector.regular" = "Regulär";
+/* E.g. [This transaction is predicted to complete in] 10-60 minutes */
+"FeeSelector.regularTime" = "10 - 60 Minuten";
+/* Fee Selector title */
+"FeeSelector.title" = "Verarbeitungsgeschwindigkeit";
+/* This is the section that allows administration of the user's wallet */
+"HomeScreen.admin" = "Administrator";
+/* Home screen menu button to buy some bitcoin */
+"HomeScreen.buy" = "Bitcoin kaufen";
+/* Menu button on the home screen toolbar */
+"HomeScreen.menu" = "Menü";
+/* This section lists the users wallets */
+"HomeScreen.portfolio" = "Geldbörsen";
+/* Label for the total balance of all the user's assets (style is all lower case if your language permits) */
+"HomeScreen.totalAssets" = "Gesamtvermögen";
+/* (Tap here to) trade (your assets for other assets) */
+"HomeScreen.trade" = "Handeln";
+/* Checking private key balance progress view text */
+"Import.checking" = "Das Privatschlüsselguthaben wird überprüft …";
+/* Sweep private key confirmation message */
+"Import.confirm" = "%1$@ von diesem privaten Schlüssel in Ihr Wallet senden? Das Bitcoin-Netzwerk erhält eine Gebühr von %2$@.";
+/* Duplicate key error message */
+"Import.Error.duplicate" = "Dieser private Schlüssel befindet sich bereits in deinem Wallet.";
+/* empty private key error message */
+"Import.Error.empty" = "Dieser private Schlüssel ist leer.";
+/* High fees error message */
+"Import.Error.highFees" = "Die Transaktionsgebühren würden das Guthaben überschreiten, die auf diesem Wallet vorhandenen sind.";
+/* Not a valid private key error message */
+"Import.Error.notValid" = "Kein gültiger privater Schlüssel";
+/* Import signing error message */
+"Import.Error.signing" = "Fehler beim Signieren der Transaktion";
+/* [Redeem] the funds stored on this private key. */
+"Import.importButton" = "Einlösen";
+/* Importing wallet progress view label */
+"Import.importing" = "Einlösen eines privaten Schlüssels";
+/* Caption for graphics */
+"Import.leftCaption" = "Privater Schlüssel";
+/* Import wallet intro screen message */
+"Import.message" = "Private Schlüssel werden oft als QR-Code auf Papier ausgedruckt und genutzt, um Geldbeträge offline zu speichern. Lösen Sie einen privaten Schlüssel ein, um das gesamte Geld, das von ihm kontrolliert wird, mit nur einer Transaktion in Ihr Bread zu übertragen.";
+/* Enter password alert view title */
+"Import.password" = "Dieser private Schlüssel ist passwortgeschützt.";
+/* password textfield placeholder */
+"Import.passwordPlaceholder" = "Passwort";
+/* Caption for graphics */
+"Import.rightCaption" = "Dein Bread-Wallet";
+/* Scan Private key button label */
+"Import.scan" = "Privaten Schlüssel scannen";
+/* Import wallet success alert title */
+"Import.success" = "Der Vorgang war erfolgreich";
+/* Successfully imported wallet message body */
+"Import.SuccessBody" = "Privater Schlüssel wurde erfolgreich eingelöst.";
+/* Import Wallet screen title */
+"Import.title" = "Privaten Schlüssel einlösen";
+/* Unlocking Private key activity view message. */
+"Import.unlockingActivity" = "Schlüssel wird freigeschaltet";
+/* Import wallet intro warning message */
+"Import.warning" = "Das Einlösen eines privaten Schlüssels führt nicht zum Import des Transaktionsverlaufs oder anderer Informationen.";
+/* Wrong password alert message */
+"Import.wrongPassword" = "Falsches Passwort, bitte versuchen Sie es erneut.";
+/* Close app button */
+"JailbreakWarnings.close" = "Schließen";
+/* Ignore jailbreak warning button */
+"JailbreakWarnings.ignore" = "Ignorieren";
+/* Jailbreak warning message */
+"JailbreakWarnings.messageWithBalance" = "DAS GERÄT IST NICHT LÄNGER SICHER\nJede beliebige „Jailbreak“-App kann auf Breads Keychain-Daten zugreifen und deine Bitcoins stehlen! Lösche dieses Wallet unverzüglich und stelle es auf einem sicheren Gerät wieder her.";
+/* Jailbreak warning message */
+"JailbreakWarnings.messageWithoutBalance" = "DAS GERÄT IST NICHT LÄNGER SICHER\nJede beliebige „Jailbreak“-App kann auf Breads Keychain-Daten zugreifen und deine Bitcoins stehlen. Bitte setze Bread ausschließlich auf Geräten ohne Jailbreak ein.";
+/* Jailbreak warning title */
+"JailbreakWarnings.title" = "ACHTUNG";
+/* Wipe wallet button */
+"JailbreakWarnings.wipe" = "Löschen";
+/* Approve link wallet button label */
+"LinkWallet.approve" = "Genehmigen";
+/* Decline link wallet button label */
+"LinkWallet.decline" = "Ablehnen";
+/* Link Wallet view dislaimer footer */
+"LinkWallet.disclaimer" = "Externe Apps können ohne Genehmigung von diesem Gerät kein Geld senden.";
+/* Link Wallet view title above domain list */
+"LinkWallet.domainTitle" = "Beachten Sie: Interagieren Sie mit dieser App NUR DANN, wenn Sie auf einer der folgenden Domains sind:";
+/* Link wallet logo footer text */
+"LinkWallet.logoFooter" = "Sichere Kasse";
+/* Link Wallet view title above permissions list */
+"LinkWallet.permissionsTitle" = "Diese App wird können:";
+/* Link Wallet view title */
+"LinkWallet.title" = "Wallet verknüpfen";
+/* Location services disabled error */
+"LocationPlugin.disabled" = "Standortdienste sind deaktiviert";
+/* No permissions for location services */
+"LocationPlugin.notAuthorized" = "Bread fehlt die Berechtigung, um auf die Standortdienste zuzugreifen.";
+/* Wallet creation date prefix */
+"ManageWallet.creationDatePrefix" = "Du hast dein Wallet am %1$@ erstellt";
+/* Manage wallet description text */
+"ManageWallet.description" = "Der Name deines Wallets erscheint ausschließlich im Transaktionsverlauf deines Kontos und kann von niemandem sonst eingesehen werden.";
+/* Change Wallet name textfield label */
+"ManageWallet.textFeildLabel" = "Name des Wallets";
+/* Manage wallet modal title */
+"ManageWallet.title" = "Wallet verwalten";
+/* "Add [a] Wallet [to the home screen]" */
+"MenuButton.addWallet" = "Wallet hinzufügen";
+/* Menu button title */
+"MenuButton.lock" = "Wallet sperren";
+/* (Click here to) manage (your list of) wallets */
+"MenuButton.manageWallets" = "Wallets verwalten";
+/* (press here to) scan (a) QR code */
+"MenuButton.scan" = "QR-Code scannen";
+/* Menu button title */
+"MenuButton.security" = "Sicherheits-Center";
+/* Menu button title */
+"MenuButton.settings" = "Einstellungen";
+/* Menu button title */
+"MenuButton.support" = "Support";
+/* button label */
+"MenuViewController.createButton" = "Neues Wallet erstellen";
+/* Menu modal title */
+"MenuViewController.modalTitle" = "Menü";
+/* button label */
+"MenuViewController.recoverButton" = "Wallet wiederherstellen";
+/* Switch to automatic mode button label */
+"NodeSelector.automaticButton" = "Zum automatischen Modus wechseln";
+/* Node is connected label */
+"NodeSelector.connected" = "Verbunden";
+/* Node is connecting label */
+"NodeSelector.connecting" = "Verbindung wird hergestellt";
+/* Enter node ip address view body */
+"NodeSelector.enterBody" = "Geben Sie die Node-IP-Adresse und den Port ein (optional)";
+/* Enter Node ip address view title */
+"NodeSelector.enterTitle" = "Node eingeben";
+/* Switch to manual mode button label */
+"NodeSelector.manualButton" = "Zum manuellen Modus wechseln";
+/* Node address label */
+"NodeSelector.nodeLabel" = "Aktueller primärer Node";
+/* Node is not connected label */
+"NodeSelector.notConnected" = "Nicht verbunden";
+/* Node status label */
+"NodeSelector.statusLabel" = "Node-Verbindungsstatus";
+/* Node Selector view title */
+"NodeSelector.title" = "Bitcoin-Nodes";
+/* Eg. Send 1.0Eth to purchase CCC */
+"PaymentConfirmation.amountText" = "%1$@ schicken, um %2$@ zu kaufen";
+/* Payment confirmation view title */
+"PaymentConfirmation.title" = "Bestätigung";
+/* Bad Payment request alert title */
+"PaymentProtocol.Errors.badPaymentRequest" = "Ungültige Zahlungsanforderung";
+/* Error opening payment protocol file message */
+"PaymentProtocol.Errors.corruptedDocument" = "Nicht unterstütztes oder fehlerhaftes Dokument";
+/* Missing certificate payment protocol error message */
+"PaymentProtocol.Errors.missingCertificate" = "Fehlendes Zertifikat";
+/* Request expired payment protocol error message */
+"PaymentProtocol.Errors.requestExpired" = "Anfrage abgelaufen";
+/* Payment too small alert title */
+"PaymentProtocol.Errors.smallOutputError" = "Die Zahlung konnte nicht durchgeführt werden";
+/* Amount too small error message */
+"PaymentProtocol.Errors.smallPayment" = "Bitcoin-Zahlungen können nicht geringer als %1$@ sein.";
+/* Output too small error message. */
+"PaymentProtocol.Errors.smallTransaction" = "Bitcoin-Transaktionsausgaben können nicht geringer als %1$@ sein.";
+/* Unsupported signature type payment protocol error message */
+"PaymentProtocol.Errors.unsupportedSignatureType" = "Nicht unterstützter Signaturtyp";
+/* Untrusted certificate payment protocol error message */
+"PaymentProtocol.Errors.untrustedCertificate" = "Nicht vertrauenswürdiges Zertifikat";
+/* Enable face ID prompt body */
+"Prompts.FaceId.body" = "Tippen Sie auf „Weiter”, um Face ID zu aktivieren";
+/* Enable face ID prompt title */
+"Prompts.FaceId.title" = "Face ID aktivieren";
+/* No passcode set warning body */
+"Prompts.NoPasscode.body" = "Ein Gerät-Passcode wird benötigt, um Ihr Wallet zu schützen. Gehen Sie zu den Einstellungen und aktivieren Sie den Passcode.";
+/* No Passcode set warning title */
+"Prompts.NoPasscode.title" = "Aktivieren Sie den Gerät-Passcode";
+/* Instruction how to enable device encryption */
+"Prompts.NoScreenLock.body.android" = "Es ist eine Bildschirmsperre auf dem Gerät erforderlich, um Ihr Wallet abzusichern. Gehen Sie zu „Einstellungen” > „Sicherheit” > „Bildschirmsperre” und aktivieren Sie diese, um fortzufahren.";
+/* Device encryption prompt title */
+"Prompts.NoScreenLock.title.android" = "Bildschirmsperre deaktiviert";
+/* Warning about paper key. */
+"Prompts.PaperKey.body" = "Ihr Paper-Key muss für den Fall, dass Sie Ihr Telefon verlieren oder wechseln, gespeichert werden. Tippen Sie hier, um fortzufahren.";
+/* An action is required (You must do this action). */
+"Prompts.PaperKey.title" = "Maßnahme erforderlich";
+/* Transaction rejected prompt body */
+"Prompts.RecommendRescan.body" = "Möglicherweise ist dein Wallet nicht synchronisiert. Dies kann oft durch ein erneutes Einscannen der Blockchain behoben werden.";
+/* Transaction rejected prompt title */
+"Prompts.RecommendRescan.title" = "Transaktion abgelehnt";
+/* Share data prompt body */
+"Prompts.ShareData.body" = "Tragen Sie zur Verbesserung von Bread bei, indem Sie Ihre anonymen Daten mit uns teilen";
+/* Share data prompt title */
+"Prompts.ShareData.title" = "Anonyme Daten teilen";
+/* Enable touch ID prompt body */
+"Prompts.TouchId.body" = "Hier antippen, um Touch ID zu aktivieren";
+/* Enable Fingerprint prompt body */
+"Prompts.TouchId.body.android" = "Hier tippen, um die Fingerabdruck-Authentifizierung zu aktivieren";
+/* Enable touch ID prompt title */
+"Prompts.TouchId.title" = "Touch ID aktivieren";
+/* Enable Fingerprint prompt title */
+"Prompts.TouchId.title.android" = "Fingerabdruck-Authentifizierung aktivieren";
+/* Button on fingerprint prompt so the user can enter their PIN instead */
+"Prompts.TouchId.usePin.android" = "PIN";
+/* Upgrade PIN prompt body. */
+"Prompts.UpgradePin.body" = "Bread nutzt mittlerweile eine 6-stellige PIN. Hier antippen, um upzugraden.";
+/* Upgrade PIN prompt title. */
+"Prompts.UpgradePin.title" = "PIN upgraden";
+/* Notifications will be added later but users can set their preferences now, which is why we specify "in the future". */
+"PushNotifications.body" = "Schalten Sie Benachrichtigungen ein, um in Zukunft besondere Meldungen von Bread zu erhalten.";
+/* Push notifications are disabled alert title" */
+"PushNotifications.disabled" = "Benachrichtigungen sind abgeschaltet";
+/* Push notifications settings instructions */
+"PushNotifications.enableInstructions" = "Schalten Sie in den Einstellungen Benachrichtigungen ein, um Alarmierungen zu empfangen.";
+/* Push notifications toggle switch label */
+"PushNotifications.label" = "Push-Benachrichtigungen";
+/* Push notifications are off label */
+"PushNotifications.off" = "Deaktivieren";
+/* Push notifications are on label */
+"PushNotifications.on" = "Aktivieren";
+/* Push notifications settings view title label */
+"PushNotifications.title" = "Benachrichtigungen";
+/* Address copied message. */
+"Receive.copied" = "In die Zwischenablage kopiert.";
+/* Share via email button label */
+"Receive.emailButton" = "E-Mail";
+/* Request button label */
+"Receive.request" = "Einen Betrag anfordern";
+/* Share button label */
+"Receive.share" = "Teilen";
+/* Share via text message (SMS) */
+"Receive.textButton" = "Textnachricht";
+/* Receive modal title */
+"Receive.title" = "Erhalten";
+/* Done button text */
+"RecoverWallet.done" = "Fertig";
+/* Recover wallet header */
+"RecoverWallet.header" = "Wallet wiederherstellen";
+/* Reset PIN with paper key: header */
+"RecoverWallet.header_reset_pin" = "PIN zurücksetzen";
+/* Enter paper key instruction */
+"RecoverWallet.instruction" = "Offlineschlüssel eingeben";
+/* Recover wallet intro */
+"RecoverWallet.intro" = "Stelle dein Bread mithilfe deines Offlineschlüssels wieder her.";
+/* Invalid paper key message */
+"RecoverWallet.invalid" = "Der von dir eingegebene Offlineschlüssel ist ungültig. Bitte überprüfe nochmal jedes Wort und versuche es erneut.";
+/* Previous button accessibility label */
+"RecoverWallet.leftArrow" = "Linker Pfeil";
+/* Next button label */
+"RecoverWallet.next" = "Weiter";
+/* Reset PIN with paper key: more information button. */
+"RecoverWallet.reset_pin_more_info" = "Für weitere Informationen hier antippen.";
+/* Next button accessibility label */
+"RecoverWallet.rightArrow" = "Rechter Pfeil";
+/* Recover wallet sub-header */
+"RecoverWallet.subheader" = "Gib den Offlineschlüssel für das Wallet ein, das du wiederherstellen willst.";
+/* Reset PIN with paper key: sub-header */
+"RecoverWallet.subheader_reset_pin" = "Gib die Wörter des Offlineschlüssels in die Kästen unten ein, um deine PIN zurückzusetzen.";
+/* No amount entered error message. */
+"RequestAnAmount.noAmount" = "Bitte geben Sie zuerst einen Betrag ein.";
+/* Request a specific amount of bitcoin */
+"RequestAnAmount.title" = "Einen Betrag anfordern";
+/* Alert action button label */
+"ReScan.alertAction" = "Synchronisieren";
+/* Alert message body */
+"ReScan.alertMessage" = "Während der Synchronisation kannst du kein Geld versenden.";
+/* Alert message title */
+"ReScan.alertTitle" = "Mit der Blockchain synchronisieren?";
+/* extimated time */
+"ReScan.body1" = "20–45 Minuten";
+/* Syncing explanation */
+"ReScan.body2" = "Wenn eine Transaktion im Bitcoin-Netzwerk, aber nicht in deinem Bread als abgeschlossen angezeigt wird.";
+/* Syncing explanation */
+"ReScan.body3" = "Sie erhalten wiederholt eine Fehlermeldung, dass Ihre Transaktion abgewiesen wurde.";
+/* Start Sync button label */
+"ReScan.buttonTitle" = "Synchronisation starten";
+/* Sync blockchain view footer */
+"ReScan.footer" = "Während der Synchronisation mit der Blockchain kannst du kein Geld versenden.";
+/* Sync Blockchain view header */
+"ReScan.header" = "Blockchain-Synchronisation";
+/* Subheader label */
+"ReScan.subheader1" = "Voraussichtliche Dauer";
+/* Subheader label */
+"ReScan.subheader2" = "Wann soll synchronisiert werden?";
+/* Scan bitcoin address camera flash toggle */
+"Scanner.flashButtonLabel" = "Kamerablitz";
+/* Complete filter label */
+"Search.complete" = "abgeschlossen";
+/* Pending filter label */
+"Search.pending" = "offen";
+/* Received filter label */
+"Search.received" = "erhalten";
+/* [Click here to] search */
+"Search.search" = "Suche";
+/* Sent filter label */
+"Search.sent" = "gesendet";
+/* Face ID button title */
+"SecurityCenter.faceIdTitle" = "Face ID";
+/* Paper Key button description */
+"SecurityCenter.paperKeyDescription" = "Die einzige Möglichkeit, wie du auf deine Bitcoins zugreifen kannst, falls du dein Smartphone verlierst oder wechselst.";
+/* Paper Key button title */
+"SecurityCenter.paperKeyTitle" = "Offlineschlüssel";
+/* PIN button description */
+"SecurityCenter.pinDescription" = "Schütze dein Bread vor nicht autorisierten Benutzern.";
+/* PIN button title */
+"SecurityCenter.pinTitle" = "6-stellige PIN";
+/* Touch ID button description */
+"SecurityCenter.touchIdDescription" = "Eine praktische Möglichkeit, dein Bread zu entsperren und Geld bis zu einer festlegbaren Höchstgrenze zu versenden.";
+/* Touch ID button title */
+"SecurityCenter.touchIdTitle" = "Touch ID";
+/* Security center fingerprint authentication button */
+"SecurityCenter.touchIdTitle.android" = "Fingerabdruck-Authentifizierung";
+/* Send money amount label */
+"Send.amountLabel" = "Betrag";
+/* Balance: $4.00 */
+"Send.balance" = "Guthaben: %1$@";
+/* Instructions how to allow the camera access for the app */
+"Send.cameraUnavailabeMessage.android" = "Erlauben Sie den Kamerazugriff unter „Einstellungen” > „Apps” > „Bread” > „Berechtigungen”";
+/* Permission required to access camera */
+"Send.cameraUnavailabeTitle.android" = "Bread hat keine Berechtigung für Kamerazugriff";
+/* Camera not allowed message */
+"Send.cameraunavailableMessage" = "Rufe die Einstellungen auf, um den Zugriff auf die Kamera zu erlauben.";
+/* Camera not allowed alert title */
+"Send.cameraUnavailableTitle" = "Bread darf nicht auf die Kamera zugreifen";
+/* Warning when sending to self. */
+"Send.containsAddress" = "Das Ziel ist deine eigene Adresse. Du kannst nichts an dich selbst senden.";
+/* Could not create transaction alert title */
+"Send.creatTransactionError" = "Transaktion konnte nicht erstellen werden.";
+/* Description for sending money label */
+"Send.descriptionLabel" = "Vermerk";
+/* Emtpy pasteboard error message */
+"Send.emptyPasteboard" = "Pasteboard ist leer.";
+/* "(you) can't send (to your)self" */
+"Send.ethSendSelf" = "Sie können nichts an sich selbst versenden.";
+/* Network Fee: $0.01 */
+"Send.fee" = "Netzwerkgebühr: %1$@";
+/* Payee identity not certified alert title. */
+"Send.identityNotCertified" = "die Identität des Zahlungsempfängers ist nicht bestätigt.";
+/* Insufficient funds error */
+"Send.insufficientFunds" = "Nicht genug Guthaben";
+/* e,g, "You must have at least $2 in your wallet in order to transfer this type of token." In this case, "token" is an ethereum ERC20 token. */
+"Send.insufficientGasMessage" = "Sie müssen mindestens %1$@ in Ihrer Wallet haben, um diese Art von Token zu übertragen. Möchten Sie jetzt Ihre Ethereum-Wallet aufrufen?";
+/* Your ethereum balance is insufficient to complete this action. */
+"Send.insufficientGasTitle" = "Unzureichender Ethereum-Saldo";
+/* e.g. The destination is not a valid (bitcoin) address. */
+"Send.invalidAddressMessage" = "Die Zieladresse ist keine gültige %1$@-Adresse.";
+/* Invalid address on pasteboard message */
+"Send.invalidAddressOnPasteboard" = "Pasteboard enthält keine gültige %1$@-Adresse.";
+/* Invalid address alert title */
+"Send.invalidAddressTitle" = "Ungültige Adresse";
+/* Is rescanning error message */
+"Send.isRescanning" = "Das Senden ist während eines kompletten Neuscans deaktiviert.";
+/* Warning when the user is trying to send bitcoin cash to a legacy bitcoin address (possible, but probably not what the user wants to do) */
+"Send.legacyAddressWarning" = "Warnung: Dies ist eine ehemalige Bitcoin-Adresse. Sind Sie sicher, dass Sie Bitcoin Cash dorthin versenden wollen?";
+/* We are loading the request (now) */
+"Send.loadingRequest" = "Anfrage wird geladen";
+/* Transaction fee could not be be caluculated error. */
+"Send.nilFeeError" = "Nicht genug Guthaben, um die Transaktionsgebühr abzudecken.";
+/* Empty address alert message */
+"Send.noAddress" = "Bitte gib die Adresse des Empfängers ein.";
+/* Emtpy amount alert message */
+"Send.noAmount" = "Bitte gib den zu sendenden Betrag ein.";
+/* No Fees error */
+"Send.noFeesError" = "Die Bedingungen für die Netzwerkgebühr werden heruntergeladen. Bitte erneut versuchen.";
+/* Paste button label */
+"Send.pasteLabel" = "Einfügen";
+/* Could not publish transaction alert title */
+"Send.publishTransactionError" = "Transaktion konnte nicht veröffentlicht werden.";
+/* Could not load remote request error message */
+"Send.remoteRequestError" = "Zahlungsanfrage konnte nicht geladen werden";
+/* Scan button label */
+"Send.scanLabel" = "Scannen";
+/* Send button label (the action, "press here to send") */
+"Send.sendLabel" = "Senden";
+/* Send screen title (as in "this is the screen for sending money") */
+"Send.title" = "Senden";
+/* Send money to label */
+"Send.toLabel" = "An";
+/* Adress already used alert message - first part */
+"Send.UsedAddress.firstLine" = "Bitcoin-Adressen sind lediglich zur einmaligen Benutzung vorgesehen.";
+/* Adress already used alert message - second part */
+"Send.UsedAddress.secondLIne" = "Durch eine mehrfache Verwendung können sowohl du als auch der Empfänger leichter identifiziert werden und falls der Empfänger die Adresse nicht direkt kontrolliert, kann das Verluste bedeuten.";
+/* Adress already used alert title */
+"Send.UsedAddress.title" = "Adresse bereits in Verwendung";
+/* About label */
+"Settings.about" = "Info";
+/* Advanced settings header */
+"Settings.advanced" = "Erweitert";
+/* Advanced Settings title */
+"Settings.advancedTitle" = "Erweiterte Einstellungen";
+/* i.e. the currency which will be displayed */
+"Settings.currency" = "Anzeigewährung";
+/* e.g. "USD Settings" (settings for how USD is handled) */
+"Settings.currencyPageTitle" = "%1$@-Einstellungen";
+/* Section title for a collection of different settings screens, one for each currency */
+"Settings.currencySettings" = "Währungseinstellungen";
+/* Join Early access label */
+"Settings.earlyAccess" = "Zum Early Access anmelden";
+/* Are you enjoying bread alert message body */
+"Settings.enjoying" = "Gefällt dir Bread?";
+/* Face ID spending limit label */
+"Settings.faceIdLimit" = "Face ID Ausgabenlimit";
+/* Redeem the funds stored on this private key. */
+"Settings.importTitle" = "Privaten Schlüssel einlösen";
+/* Manage settings section header */
+"Settings.manage" = "Verwalten";
+/* Notifications label */
+"Settings.notifications" = "Benachrichtigungen";
+/* Section header for "other settings". */
+"Settings.other" = "Andere";
+/* Preferences settings section header */
+"Settings.preferences" = "Einstellungen";
+/* Tap here to reset the list of currencies to the default settings. */
+"Settings.resetCurrencies" = "Auf Standardwährungen zurücksetzen";
+/* Leave review button label */
+"Settings.review" = "Schreibe eine Rezension für unsere App";
+/* Share anonymous data label */
+"Settings.shareData" = "Übermittle anonyme Nutzungsdaten";
+/* Sync blockchain label */
+"Settings.sync" = "Blockchain-Synchronisation";
+/* Settings title */
+"Settings.title" = "Einstellungen";
+/* Touch ID spending limit label */
+"Settings.touchIdLimit" = "Touch-ID-Ausgabenlimit";
+/* The fingerprint spending limit */
+"Settings.touchIdLimit.android" = "Ausgabelimit bei Fingerabdruck-Authentifizierung";
+/* Wallet Settings section header */
+"Settings.wallet" = "Wallet";
+/* Unlink/delete your wallet from the current device. */
+"Settings.wipe" = "Verknüpfung mit diesem Gerät aufheben";
+/* Share data view body */
+"ShareData.body" = "Hilf dabei, Bread zu verbessern, indem du uns deine Nutzungsdaten anonym übermittelst. Hiervon sind sämtliche Finanzinformationen ausgeschlossen. Wir respektieren deine finanzielle Privatsphäre.";
+/* Share data header */
+"ShareData.header" = "Nutzungsdaten übermitteln?";
+/* Share data switch label. */
+"ShareData.toggleLabel" = "Anonyme Nutzungsdaten übermitteln?";
+/* button label */
+"StartPaperPhrase.againButtonTitle" = "Offlineschlüssel erneut notieren";
+/* Paper key explanation text. */
+"StartPaperPhrase.body" = "Dein Offlineschlüssel ist die einzige Möglichkeit, dein Bread wiederherzustellen, falls du dein Smartphone verlierst, austauscht, es gestohlen wird oder kaputtgeht.\n\nHierfür zeigen wir dir eine Liste von Wörtern an, damit du sie dir auf ein Stück Papier notieren kannst, das es sicher aufzubewahren gilt.";
+/* button label */
+"StartPaperPhrase.buttonTitle" = "Offlineschlüssel notieren";
+/* Argument is date */
+"StartPaperPhrase.date" = "Du hast dir deinen Offlineschlüssel zuletzt am %1$@ notiert";
+/* button label */
+"StartViewController.createButton" = "Neue Geldbörse erstellen";
+/* Start view message */
+"StartViewController.message" = "Die sicherste Option zur Nutzung von Bitcoin.";
+/* Recover your wallet from a backup */
+"StartViewController.recoverButton" = "Geldbörse wiederherstellen";
+/* Syncing view connectiong state header text */
+"SyncingView.connecting" = "Verbindet";
+/* The sync has failed (to complete) */
+"SyncingView.failed" = "Synchronisation fehlgeschlagen";
+/* Syncing view header text */
+"SyncingView.header" = "Synchronisation läuft";
+/* Retry button label */
+"SyncingView.retry" = "Erneut versuchen";
+/* "eg. Synced through <Jan 12, 2015> */
+"SyncingView.syncedThrough" = "Synchronsiert durch %1$@";
+/* Syncing view syncing state header text */
+"SyncingView.syncing" = "Synchronisiert";
+/* 6 d (6 days) */
+"TimeSince.days" = "%1$@ d";
+/* 6 h (6 hours) */
+"TimeSince.hours" = "%1$@ h";
+/* 6 m (6 minutes) */
+"TimeSince.minutes" = "%1$@ m";
+/* 6 s (6 seconds) */
+"TimeSince.seconds" = "%1$@ s";
+/* Add [this item to the list] */
+"TokenList.add" = "Hinzufügen";
+/* Add Wallets  [to your home screen] */
+"TokenList.addTitle" = "Wallets hinzufügen";
+/* Hide [this token from view] */
+"TokenList.hide" = "Verbergen";
+/* [click here to] Manage [your] Wallets */
+"TokenList.manageTitle" = "Wallets organisieren";
+/* Remove [this item from the list] */
+"TokenList.remove" = "Entfernen";
+/* Show [this item on your home screen] */
+"TokenList.show" = "Anzeigen";
+/* You can customize your Touch ID Spending Limit from the [TouchIdSettings.linkText gets added here as a button] */
+"TouchIdSettings.customizeText" = "Sie können über %1$@ ein Ausgabenmaximum für Touch ID festlegen.";
+/* Fingerprint enabling description body */
+"TouchIdSettings.customizeText.android" = "Sie können Ihr Ausgabelimit für die Fingerabdruck-Authentifizierung auf dem Bildschirm „Ausgabelimit bei Fingerabdruck-Autorisierung” anpassen";
+/* Instruction for the fingerprint setup */
+"TouchIdSettings.disabledWarning.body.android" = "Sie haben die Fingerabdruck-Authentifizierung auf diesem Gerät nicht aktiviert. Gehen Sie zu „Einstellungen” -> „Sicherheit”, um die Fingerabdruck-Authentifizierung einzurichten.";
+/* Fingerprint Is Not Setup */
+"TouchIdSettings.disabledWarning.title.android" = "Fingerabdruck-Authentifizierung nicht aktiviert";
+/* Touch Id screen label */
+"TouchIdSettings.label" = "Nutze deinen Fingerabdruck, um dein Bread zu entsperren und Geld bis zu einer festlegbaren Höchstgrenze zu versenden.";
+/* Link Text (see TouchIdSettings.customizeText) */
+"TouchIdSettings.linkText" = "Bildschirm für Touch-ID-Ausgabenmaximum";
+/* Spending Limit: b100,000 ($100) */
+"TouchIdSettings.spendingLimit" = "Ausgabelimit: %1$@  (%2$@)";
+/* Touch id switch label. */
+"TouchIdSettings.switchLabel" = "Touch ID für Bread aktivieren";
+/* Enable fingerprint for this wallet called Bread */
+"TouchIdSettings.switchLabel.android" = "Fingerabdruck-Authentifizierung aktivieren";
+/* Touch ID settings view title */
+"TouchIdSettings.title" = "Touch ID";
+/* Fingerprint authentication label */
+"TouchIdSettings.title.android" = "Fingerabdruck-Authentifizierung";
+/* Touch ID unavailable alert message */
+"TouchIdSettings.unavailableAlertMessage" = "Du hast Touch ID auf diesem Gerät noch nicht eingerichtet. Öffne Einstellungen -> Touch ID & Passcode, um es jetzt einzurichten.";
+/* Touch ID unavailable alert title */
+"TouchIdSettings.unavailableAlertTitle" = "Touch ID nicht eingerichtet";
+/* Always require passcode option */
+"TouchIdSpendingLimit" = "Immer PIN anfordern";
+/* Touch ID spending limit screen body */
+"TouchIdSpendingLimit.body" = "Du musst deine 6-stellige PIN eingeben, um Transaktionen abzuschicken, die über deinem Ausgabenlimit liegen, sowie alle 48 Stunden seit du deine 6-stellige PIN das letzte Mal eingegeben hast.";
+/* Touch Id spending limit screen title */
+"TouchIdSpendingLimit.title" = "Touch-ID-Ausgabenlimit";
+/* name of spending limit when using fingerprint authorization */
+"TouchIdSpendingLimit.title.android" = "Ausgabelimit bei Fingerabdruck-Autorisierung";
+/* Availability status text */
+"Transaction.available" = "Verfügbar für Ausgaben";
+/* Transaction complete label */
+"Transaction.complete" = "Abgeschlossen";
+/* Transaction is confirming status text */
+"Transaction.confirming" = "In Bearbeitung";
+/* eg. Ending balance: $50.00 */
+"Transaction.ending" = "Endguthaben: %1$@";
+/* Exchange rate on date header */
+"Transaction.exchangeOnDayReceived" = "Wechselkurs beim Erhalt:";
+/* Exchange rate on date header */
+"Transaction.exchangeOnDaySent" = "Wechselkurs beim Senden:";
+/* Transaction failed status text */
+"Transaction.failed" = "Fehlgeschlagen";
+/* (b600 fee) */
+"Transaction.fee" = "(%1$@ Gebühr)";
+/* Invalid transaction */
+"Transaction.invalid" = "UNGÜLTIG";
+/* Timestamp label for event that just happened */
+"Transaction.justNow" = "gerade eben";
+/* Transaction is pending status text */
+"Transaction.pending" = "Ausstehend";
+/* Receive status text: 'In progress: 20%' */
+"Transaction.receivedStatus" = "In Bearbeitung: %1$@";
+/* Send status text: 'In progress: 20%' */
+"Transaction.sendingStatus" = "In Bearbeitung: %1$@";
+/* sending to <address> */
+"Transaction.sendingTo" = "wird gesendet an %1$@";
+/* sent to <address> */
+"Transaction.sentTo" = "gesendet an %1$@";
+/* eg. Starting balance: $50.00 */
+"Transaction.starting" = "Startguthaben: %1$@";
+/* e.g. "[The money you paid was a] Fee for token transfer: BRD" (BRD is the token that was transfered) */
+"Transaction.tokenTransfer" = "Gebühr für Token-Übertragung: %1$@";
+/* Waiting to be confirmed string */
+"Transaction.waiting" = "Bestätigung ausstehend. Einige Händler fordern eine Bestätigung, um Transaktionen abzuschließen. Voraussichtliche Dauer: 1–2 Stunden.";
+/* e.g. I received money from an account. */
+"TransactionDetails.account" = "Konto";
+/* Address received from header */
+"TransactionDetails.addressFromHeader" = "Von";
+/* Address sent to header */
+"TransactionDetails.addressToHeader" = "An";
+/* e.g. "(this was received) via (address #1)" via = by way of */
+"TransactionDetails.addressViaHeader" = "Über";
+/* Amount section header */
+"TransactionDetails.amountHeader" = "Betrag";
+/* "(it was worth) $100 when sent, (and it is worth) $200 now" */
+"TransactionDetails.amountWhenReceived" = "%1$@ zum Zeitpunkt des Empfangs, %2$@ jetzt";
+/* "(it was worth) $100 when sent, (and it is worth) $200 now" */
+"TransactionDetails.amountWhenSent" = "%1$@ beim Senden, jetzt %2$@";
+/* Block height label */
+"TransactionDetails.blockHeightLabel" = "Bestätigt im Block";
+/* Memo section header */
+"TransactionDetails.commentsHeader" = "Vermerk";
+/* Memo field placeholder */
+"TransactionDetails.commentsPlaceholder" = "Notiz hinzufügen ...";
+/* Timestamp section header for complete tx */
+"TransactionDetails.completeTimestampHeader" = "Abgeschlossen";
+/* Empty transaction list message. */
+"TransactionDetails.emptyMessage" = "Hier werden deine Transaktionen angezeigt.";
+/* e.g. the users balance after the transaction was compeleted */
+"TransactionDetails.endingBalanceHeader" = "Endguthaben";
+/* Exchange rate section header */
+"TransactionDetails.exchangeRateHeader" = "Wechselkurs";
+/* Tx detail field header */
+"TransactionDetails.feeHeader" = "Gesamtgebühr";
+/* "Received [$5] at [which of my addresses]" => This is the "at [which of my addresses]" part. */
+"TransactionDetails.from" = "an %1$@";
+/* Tx detail field header */
+"TransactionDetails.gasLimitHeader" = "Benzinbegrenzung";
+/* Tx detail field header */
+"TransactionDetails.gasPriceHeader" = "Benzinpreis";
+/* Label showing the transaction was started (initialized) */
+"TransactionDetails.initializedTimestampHeader" = "Initialisiert";
+/* More button title */
+"TransactionDetails.more" = "Mehr …";
+/* Moved $5.00 (as in "I moved $5 to another location") */
+"TransactionDetails.moved" = "%1$@ bewegt";
+/* Moved $5.00 */
+"TransactionDetails.movedAmountDescription" = "Verschoben <b>%1$@</b>";
+/* eg. Confirmed in Block: Not Confirmed */
+"TransactionDetails.notConfirmedBlockHeightLabel" = "Nicht bestätigt";
+/* "Received [$5] at [which of my addresses]" => This is the "Received [$5]" part. */
+"TransactionDetails.received" = "%1$@ erhalten";
+/* Received $5.00 */
+"TransactionDetails.receivedAmountDescription" = "Erhalten <b>%1$@</b>";
+/* received from <address> */
+"TransactionDetails.receivedFrom" = "erhalten von %1$@";
+/* received via <address> */
+"TransactionDetails.receivedVia" = "empfangen über %1$@";
+/* receiving from <address> */
+"TransactionDetails.receivingFrom" = "unterwegs von %1$@";
+/* receiving via <address> */
+"TransactionDetails.receivingVia" = "wird empfangen über %1$@";
+/* "Sent [$5] to [address]" => This is the "Sent [$5]" part. */
+"TransactionDetails.sent" = "%1$@ gesendet";
+/* Sent $5.00 */
+"TransactionDetails.sentAmountDescription" = "Gesendet <b>%1$@</b>";
+/* Show Details button */
+"TransactionDetails.showDetails" = "Details anzeigen";
+/* The balance the user started with before the transaction completed */
+"TransactionDetails.startingBalanceHeader" = "Anfangsguthaben";
+/* Status section header */
+"TransactionDetails.statusHeader" = "Status";
+/* Transaction Details Title */
+"TransactionDetails.title" = "Transaktionsdaten";
+/* Hide Details button */
+"TransactionDetails.titleFailed" = "Details ausblenden";
+/* Transaction Details Title - Internal */
+"TransactionDetails.titleInternal" = "Intern";
+/* Transaction Details Title - Received */
+"TransactionDetails.titleReceived" = "Empfangen";
+/* Transaction Details Title - Receiving */
+"TransactionDetails.titleReceiving" = "Wird empfangen";
+/* Transaction Details Title - Sending */
+"TransactionDetails.titleSending" = "Wird gesendet";
+/* Transaction Details Title - Sent */
+"TransactionDetails.titleSent" = "Gesendet";
+/* "Sent [$5] to [address]" => This is the "to [address]" part. */
+"TransactionDetails.to" = "an %1$@";
+/* Tx detail field header */
+"TransactionDetails.totalHeader" = "Gesamt";
+/* Transaction ID header */
+"TransactionDetails.txHashHeader" = "Bitcoin-Transaktions-ID";
+/* (this transaction was) Received at this address: */
+"TransactionDirection.address" = "An dieser Adresse empfangen";
+/* (this transaction was) Sent to this address: */
+"TransactionDirection.to" = "An diese Adresse versandt";
+/* Disabled until date */
+"UnlockScreen.disabled" = "Deaktiviert bis: %1$@";
+/* Unlock with FaceID accessibility label */
+"UnlockScreen.faceIdText" = "Mit Face ID freischalten";
+/* My Address button title */
+"UnlockScreen.myAddress" = "Meine Adresse";
+/* Reset PIN with Paper Key button label. */
+"UnlockScreen.resetPin" = "PIN zurücksetzen";
+/* Scan button title */
+"UnlockScreen.scan" = "Scannen";
+/* Instruction to touch the sensor for fingerprint authentication */
+"UnlockScreen.touchIdInstructions.android" = "Sensor berühren";
+/* TouchID prompt text */
+"UnlockScreen.touchIdPrompt" = "Entsperre dein Bread.";
+/* Device authentication body */
+"UnlockScreen.touchIdPrompt.android" = "Bitte entsperren Sie Ihr Android-Gerät, um fortzufahren.";
+/* Unlock with TouchID accessibility label */
+"UnlockScreen.touchIdText" = "Mit Touch ID entsperren";
+/* Device authentication title */
+"UnlockScreen.touchIdTitle.android" = "Authentifizierung erforderlich";
+/* Update PIN caption text */
+"UpdatePin.caption" = "Merke dir diese PIN. Falls du sie vergisst, kannst du nicht mehr auf deine Bitcoins zugreifen.";
+/* PIN creation info. */
+"UpdatePin.createInstruction" = "Deine PIN wird verwendet, um dein Bread zu entsperren und Geld zu versenden.";
+/* Update PIN title */
+"UpdatePin.createTitle" = "PIN festlegen";
+/* Update PIN title */
+"UpdatePin.createTitleConfirm" = "PIN erneut eingeben";
+/* Enter current PIN instruction */
+"UpdatePin.enterCurrent" = "Gib deine derzeitige PIN ein.";
+/* Enter new PIN instruction */
+"UpdatePin.enterNew" = "Gib deine neue PIN ein.";
+/* Re-Enter new PIN instruction */
+"UpdatePin.reEnterNew" = "Gib deine neue PIN erneut ein.";
+/* Update PIN failure error message. */
+"UpdatePin.setPinError" = "Leider konnte deine PIN nicht aktualisiert werden.";
+/* Update PIN failure alert view title */
+"UpdatePin.setPinErrorTitle" = "Fehler bei der PIN-Aktualisierung";
+/* Update PIN title */
+"UpdatePin.updateTitle" = "PIN aktualisieren";
+/* Authorize to copy wallet addresses alert message */
+"URLHandling.addressaddressListAlertMessage" = "Wallet-Adressen in die Zwischenablage kopieren?";
+/* Authorize to copy wallet address PIN view prompt. */
+"URLHandling.addressList" = "Berechtigung für das Kopieren der Wallet-Adresse in die Zwischenablage erteilen";
+/* Authorize to copy wallet address alert title */
+"URLHandling.addressListAlertTitle" = "Wallet-Adressen kopieren";
+/* Copy wallet addresses alert button label */
+"URLHandling.copy" = "Kopieren";
+/* Verify PIN for transaction view body */
+"VerifyPin.authorize" = "Bitte geben Sie Ihren PIN ein, um diese Transaktion zu genehmigen.";
+/* Verify PIN view body */
+"VerifyPin.continueBody" = "Bitte gib deine PIN ein, um fortzufahren";
+/* Verify PIN view title */
+"VerifyPin.title" = "PIN erforderlich";
+/* Authorize transaction with touch id message */
+"VerifyPin.touchIdMessage" = "Diese Transaktion genehmigen";
+/* 'No wallet' warning for watch app */
+"Watch.noWalletWarning" = "Öffne die Bread-iPhone-App, um dein Wallet einzurichten.";
+/* Dismiss button label */
+"Webview.dismiss" = "Verwerfen";
+/* Webview loading error message */
+"Webview.errorMessage" = "Beim Laden des Inhalts ist ein Fehler aufgetreten. Bitte versuche es erneut.";
+/* Updating webview message */
+"Webview.updating" = "Aktualisierung läuft …";
+/* Welcome screen text. (?) will be replaced with the help icon users should look for. */
+"Welcome.body" = "Breadwallet heißt jetzt Bread und hat ein brandneues Erscheinungsbild sowie einige neue Funktionen.\n\nWenn Sie Hilfe benötigen, halten Sie Ausschau nach dem (?), das auf den meisten Bildschirm oben rechts zu finden ist.";
+/* Top title of welcome screen */
+"Welcome.title" = "Willkommen bei Bread!";
+/* Wipe wallet alert message */
+"WipeWallet.alertMessage" = "Sind Sie sicher, dass Sie dieses Wallet löschen möchten?";
+/* Wipe wallet alert title */
+"WipeWallet.alertTitle" = "Wallet löschen?";
+/* Failed wipe wallet alert message */
+"WipeWallet.failedMessage" = "Wallet konnte nicht gelöscht werden.";
+/* Failed wipe wallet alert title */
+"WipeWallet.failedTitle" = "Fehlgeschlagen";
+/* Enter phrase to wipe wallet instruction. (Important to explain it is the CURRENT [this wallet's] paper key that needs to be entered). */
+"WipeWallet.instruction" = "Um ein neues Wallet anzulegen oder ein existierendes Wallet wiederherzustellen, müssen Sie erst die Verknüpfung mit dem aktuell installierten Wallet aufheben. Um fortzufahren, geben Sie den Papierschlüssel des aktuellen Wallets ein.";
+/* Instructions for unlinking the wallet */
+"WipeWallet.startMessage" = "Heben Sie die Verknüpfung Ihres Wallets auf, um es von diesem Gerät zu entfernen. Sobald die Verknüpfung dieses Wallets entfernt ist, können Sie ein neues Wallet anlegen oder ein anderes Wallet auf diesem Gerät wiederherstellen.";
+/* Start wipe wallet view warning */
+"WipeWallet.startWarning" = "Sie werden von diesem Gerät aus keinen Zugriff auf Ihr aktuelles Bread-Wallet mehr haben. Der Saldo verbleibt auf dem Satz.";
+/* Unlink this wallet from this device. */
+"WipeWallet.title" = "Verknüpfung des Wallets aufheben";
+/* Wipe wallet button title */
+"WipeWallet.wipe" = "Löschen";
+/* Wiping activity message */
+"WipeWallet.wiping" = "Wird gelöscht ...";
+/* Paper key instructions. */
+"WritePaperPhrase.instruction" = "Schreib dir jedes Wort der Reihenfolge nach auf und bewahre die Notiz an einem sicheren Ort auf.";
+/* button label */
+"WritePaperPhrase.next" = "Weiter";
+/* button label */
+"WritePaperPhrase.previous" = "Zurück";
+/* 1 of 3 */
+"WritePaperPhrase.step" = "%1$li von %2$li";
